@@ -15,6 +15,6 @@ https://drive.google.com/drive/folders/10K5b5W9-7K0HxmwvE9MZytDO8FJl_Zge?usp=sha
 
 --unlabelled_psuedo_label.npy: the result after majority vote
 
-![image](https://github.com/isaacaaa/final_cross_domain_uda/blob/main/pasted%20image%200.png)
+![image](https://github.com/isaacaaa/final_cross_domain_uda/blob/main/Unsupervised%20data%20augmentation%20for%20cross%20domain.png)
 
 
